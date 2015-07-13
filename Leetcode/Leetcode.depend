@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1436795774 source:d:\workplace\exercise\leetcode\main.cpp
+	<iostream>
+	"solution.h"
+
+1436793261 d:\workplace\exercise\leetcode\solution.h
+	<iostream>
+	<string>
+	<vector>
+	<math.h>
+	<map>
+
+1436672223 d:\workplace\exercise\leetcode\67_add_binary.cpp
+
+1436674316 source:d:\workplace\exercise\leetcode\67_add_binary.cpp
+	"solution.h"
+
+1436675518 source:d:\workplace\exercise\leetcode\205_isomorphic_strings.cpp
+	"solution.h"
+
+1436689623 source:d:\workplace\exercise\leetcode\234_palindrome_linked_list.cpp
+	"solution.h"
+
+1436795401 source:d:\workplace\exercise\leetcode\28_implement_strstr.cpp
+	"solution.h"
+

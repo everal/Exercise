@@ -15,6 +15,14 @@ struct ListNode
     ListNode(int x) : val(x), next(NULL) {}
 };
 
+ struct TreeNode {
+     int val;
+     TreeNode *left;
+     TreeNode *right;
+     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
+ };
+
+
 class Solution
 {
 public:
@@ -26,6 +34,9 @@ public:
     string convert(string s, int numRows);
     void deleteNode(ListNode* node);
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q);
+    vector<TreeNode*> generateTrees(int n) ;
+    vector<TreeNode*> helper(int start, int end);
+
 };
 #endif // SOLUTION_H_INCLUDED
 

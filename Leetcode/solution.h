@@ -24,6 +24,8 @@ public:
     int strStr(string haystack, string needle);
     bool isPalindrome_125(string s);
     string convert(string s, int numRows);
+    void deleteNode(ListNode* node);
+    TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q);
 };
 #endif // SOLUTION_H_INCLUDED
 

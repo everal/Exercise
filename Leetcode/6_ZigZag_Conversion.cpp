@@ -28,7 +28,7 @@ string Solution::convert(string s, int numRows)
                 flag = true;
             }
         }
-        if(flag == true && n < numRows - 1)
+        else if(flag == true && n < numRows - 1)
         {
             n++;
             result[n].push_back(s[i]);
@@ -41,6 +41,5 @@ string Solution::convert(string s, int numRows)
     for(i = 0; i < result.size(); i++)
         for(int j = 0; j < result[i].size(); j++)
             str += result[i][j];
-    cout<<str.size()<<endl;
     return str;
 }

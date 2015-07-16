@@ -30,3 +30,26 @@
 1436971523 source:d:\workplace\exercise\leetcode\6_zigzag_conversion.cpp
 	"solution.h"
 
+1437010887 source:d:\workspace\exercise\leetcode\205_isomorphic_strings.cpp
+	"solution.h"
+
+1437010887 d:\workspace\exercise\leetcode\solution.h
+	<iostream>
+	<string>
+	<vector>
+	<math.h>
+	<map>
+
+1437010887 source:d:\workspace\exercise\leetcode\234_palindrome_linked_list.cpp
+	"solution.h"
+
+1437010887 source:d:\workspace\exercise\leetcode\28_implement_strstr.cpp
+	"solution.h"
+
+1437010887 source:d:\workspace\exercise\leetcode\67_add_binary.cpp
+	"solution.h"
+
+1437010887 source:d:\workspace\exercise\leetcode\main.cpp
+	<iostream>
+	"solution.h"
+

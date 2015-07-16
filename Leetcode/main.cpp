@@ -16,6 +16,6 @@ int main()
     p4->next = NULL;
 
     Solution s = Solution();
-    cout<<s.strStr("CDABABFG", "ABABFG")<<endl;
+    cout<<s.convert("ABC", 2)<<endl;
     return 0;
 }

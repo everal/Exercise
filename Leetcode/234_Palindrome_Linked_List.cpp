@@ -1,6 +1,6 @@
 #include "solution.h"
 
-bool Solution::isPalindrome(ListNode* head)
+bool Solution::isPalindrome_203(ListNode* head)
 {
     if(head == NULL || head->next == NULL)
         return true;

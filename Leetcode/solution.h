@@ -20,8 +20,10 @@ class Solution
 public:
     string addBinary(string a, string b);
     bool isIsomorphic(string s, string t);
-    bool isPalindrome(ListNode* head);
+    bool isPalindrome_203(ListNode* head);
     int strStr(string haystack, string needle);
+    bool isPalindrome_125(string s);
+    string convert(string s, int numRows);
 };
 #endif // SOLUTION_H_INCLUDED
 

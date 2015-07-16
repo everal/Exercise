@@ -1,9 +1,9 @@
 # depslib dependency file v1.0
-1436795774 source:d:\workplace\exercise\leetcode\main.cpp
+1436969786 source:d:\workplace\exercise\leetcode\main.cpp
 	<iostream>
 	"solution.h"
 
-1436793261 d:\workplace\exercise\leetcode\solution.h
+1436968922 d:\workplace\exercise\leetcode\solution.h
 	<iostream>
 	<string>
 	<vector>
@@ -18,9 +18,15 @@
 1436675518 source:d:\workplace\exercise\leetcode\205_isomorphic_strings.cpp
 	"solution.h"
 
-1436689623 source:d:\workplace\exercise\leetcode\234_palindrome_linked_list.cpp
+1436884853 source:d:\workplace\exercise\leetcode\234_palindrome_linked_list.cpp
 	"solution.h"
 
-1436795401 source:d:\workplace\exercise\leetcode\28_implement_strstr.cpp
+1436796402 source:d:\workplace\exercise\leetcode\28_implement_strstr.cpp
+	"solution.h"
+
+1436885531 source:d:\workplace\exercise\leetcode\125_valid_palindrome.cpp
+	"solution.h"
+
+1436971523 source:d:\workplace\exercise\leetcode\6_zigzag_conversion.cpp
 	"solution.h"
 

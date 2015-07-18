@@ -35,9 +35,12 @@
 		<Unit filename="125_Valid_Palindrome.cpp" />
 		<Unit filename="205_Isomorphic_Strings.cpp" />
 		<Unit filename="234_Palindrome_Linked_List.cpp" />
+		<Unit filename="235_lowestCommonAncestor.cpp" />
+		<Unit filename="237_Delete_Node_in_a_Linked_List.cpp" />
 		<Unit filename="28_Implement_strStr.cpp" />
 		<Unit filename="67_Add_Binary.cpp" />
 		<Unit filename="6_ZigZag_Conversion.cpp" />
+		<Unit filename="95_Unique_Binary_Search_Trees_II.cpp" />
 		<Unit filename="main.cpp" />
 		<Unit filename="solution.h">
 			<Option target="&lt;{~None~}&gt;" />

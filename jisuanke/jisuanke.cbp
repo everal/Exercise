@@ -2,12 +2,12 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="Leetcode" />
+		<Option title="jisuanke" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
 			<Target title="Debug">
-				<Option output="bin/Debug/Leetcode" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Debug/jisuanke" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Debug/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -16,7 +16,7 @@
 				</Compiler>
 			</Target>
 			<Target title="Release">
-				<Option output="bin/Release/Leetcode" prefix_auto="1" extension_auto="1" />
+				<Option output="bin/Release/jisuanke" prefix_auto="1" extension_auto="1" />
 				<Option object_output="obj/Release/" />
 				<Option type="1" />
 				<Option compiler="gcc" />
@@ -32,19 +32,7 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
-		<Unit filename="125_Valid_Palindrome.cpp" />
-		<Unit filename="205_Isomorphic_Strings.cpp" />
-		<Unit filename="234_Palindrome_Linked_List.cpp" />
-		<Unit filename="235_lowestCommonAncestor.cpp" />
-		<Unit filename="237_Delete_Node_in_a_Linked_List.cpp" />
-		<Unit filename="28_Implement_strStr.cpp" />
-		<Unit filename="67_Add_Binary.cpp" />
-		<Unit filename="6_ZigZag_Conversion.cpp" />
-		<Unit filename="95_Unique_Binary_Search_Trees_II.cpp" />
 		<Unit filename="main.cpp" />
-		<Unit filename="solution.h">
-			<Option target="&lt;{~None~}&gt;" />
-		</Unit>
 		<Extensions>
 			<code_completion />
 			<envvars />

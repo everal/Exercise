@@ -8,9 +8,12 @@ vector<TreeNode*> Solution::generateTrees(int n)
 vector<TreeNode*> Solution::helper(int start, int end)
 {
     if(start > end)
-        return vector<TreeNode* >(1);
+    {
+        vector<TreeNode*> v;
+        return v;
+    }
     vector<TreeNode* > result;
-    for(int i = start; i < end; i++)
+    for(int i = start; i <= end; i++)
     {
         vector<TreeNode *> left, right;
         left = helper(start, i-1);

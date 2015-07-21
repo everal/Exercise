@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1437227610 source:d:\workplace\exercise\jisuanke\main.cpp
+	<iostream>
+	<map>
+	<time.h>
+

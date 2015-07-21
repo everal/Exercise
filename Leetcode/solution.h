@@ -6,6 +6,8 @@
 #include <vector>
 #include <math.h>
 #include <map>
+#include <algorithm>
+#include <stack>
 
 using namespace std;
 struct ListNode
@@ -21,7 +23,8 @@ struct ListNode
      TreeNode *right;
      TreeNode(int x) : val(x), left(NULL), right(NULL) {}
  };
-
+TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder);
+TreeNode* buildTree_helper(vector<int>& preorder, vector<int>::iterator ps, vector<int>::iterator pe, vector<int>& inorder, vector<int>::iterator is, vector<int>::iterator ie);
 
 class Solution
 {
@@ -36,7 +39,11 @@ public:
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q);
     vector<TreeNode*> generateTrees(int n) ;
     vector<TreeNode*> helper(int start, int end);
-
+    ListNode* deleteDuplicates(ListNode* head);
+    vector<string> anagrams(vector<string>& strs);
+    vector<int> maxSlidingWindow(vector<int>& nums, int k);
+    bool isPopOrder(vector<int> pPush, vector<int> pPop);
+    bool verifyBST(int squence[], int length);
 };
 #endif // SOLUTION_H_INCLUDED
 

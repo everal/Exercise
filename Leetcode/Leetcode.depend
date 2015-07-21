@@ -1,14 +1,16 @@
 # depslib dependency file v1.0
-1437045953 source:d:\workplace\exercise\leetcode\main.cpp
+1437399233 source:d:\workplace\exercise\leetcode\main.cpp
 	<iostream>
 	"solution.h"
 
-1437051457 d:\workplace\exercise\leetcode\solution.h
+1437400915 d:\workplace\exercise\leetcode\solution.h
 	<iostream>
 	<string>
 	<vector>
 	<math.h>
 	<map>
+	<algorithm>
+	<stack>
 
 1436672223 d:\workplace\exercise\leetcode\67_add_binary.cpp
 
@@ -59,6 +61,33 @@
 1437011582 source:d:\workspace\exercise\leetcode\6_zigzag_conversion.cpp
 	"solution.h"
 
-1437051513 source:d:\workplace\exercise\leetcode\95_unique_binary_search_trees_ii.cpp
+1437189604 source:d:\workplace\exercise\leetcode\95_unique_binary_search_trees_ii.cpp
+	"solution.h"
+
+1437045953 source:d:\workplace\exercise\leetcode\235_lowestcommonancestor.cpp
+	"solution.h"
+
+1437045953 source:d:\workplace\exercise\leetcode\237_delete_node_in_a_linked_list.cpp
+	"solution.h"
+
+1437187863 source:d:\workplace\exercise\leetcode\236_lowest_common_ancestor_of_a_binary_tree.cpp
+	"solution.h"
+
+1437189897 source:d:\workplace\exercise\leetcode\construct_binary_tree_from_preorder_and_inorder_traversal.cpp
+	"solution.h"
+
+1437192353 source:d:\workplace\exercise\leetcode\remove_duplicates_from_sorted_list_ii.cpp
+	"solution.h"
+
+1437193654 source:d:\workplace\exercise\leetcode\anagrams.cpp
+	"solution.h"
+
+1437196860 source:d:\workplace\exercise\leetcode\sliding_window_maximum.cpp
+	"solution.h"
+
+1437399221 source:d:\workplace\exercise\leetcode\ispoporder.cpp
+	"solution.h"
+
+1437400793 source:d:\workplace\exercise\leetcode\verifybst.cpp
 	"solution.h"
 

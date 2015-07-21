@@ -43,8 +43,10 @@ int main()
     //v2.push_back(3);
 
     Solution s = Solution();
-    int squence[7] = {5,7,6,9,11,10, 8};
-    cout<<s.verifyBST(squence, 7)<<endl;
+
+    cout<<s.calculate("3+2*2")<<endl;
+    //int squence[7] = {5,7,6,9,11,10, 8};
+    //cout<<s.verifyBST(squence, 7)<<endl;
     //cout<<s.isPopOrder(v1, v2)<<endl;
     //v2 = s.maxSlidingWindow(v1, 8);
     //for(int i = 0; i < v2.size(); i++)

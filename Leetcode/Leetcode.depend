@@ -35,12 +35,14 @@
 1437010887 source:d:\workspace\exercise\leetcode\205_isomorphic_strings.cpp
 	"solution.h"
 
-1437012240 d:\workspace\exercise\leetcode\solution.h
+1437465374 d:\workspace\exercise\leetcode\solution.h
 	<iostream>
 	<string>
 	<vector>
 	<math.h>
 	<map>
+	<algorithm>
+	<stack>
 
 1437010887 source:d:\workspace\exercise\leetcode\234_palindrome_linked_list.cpp
 	"solution.h"
@@ -51,7 +53,7 @@
 1437010887 source:d:\workspace\exercise\leetcode\67_add_binary.cpp
 	"solution.h"
 
-1437012154 source:d:\workspace\exercise\leetcode\main.cpp
+1437467223 source:d:\workspace\exercise\leetcode\main.cpp
 	<iostream>
 	"solution.h"
 
@@ -89,5 +91,17 @@
 	"solution.h"
 
 1437400793 source:d:\workplace\exercise\leetcode\verifybst.cpp
+	"solution.h"
+
+1437012420 source:d:\workspace\exercise\leetcode\237_delete_node_in_a_linked_list.cpp
+	"solution.h"
+
+1437467277 source:d:\workspace\exercise\leetcode\227_basic_calculator_ii.cpp
+	"solution.h"
+
+1437129240 source:d:\workspace\exercise\leetcode\235_lowestcommonancestor.cpp
+	"solution.h"
+
+1437447234 source:d:\workspace\exercise\leetcode\95_unique_binary_search_trees_ii.cpp
 	"solution.h"
 

@@ -44,6 +44,7 @@ public:
     vector<int> maxSlidingWindow(vector<int>& nums, int k);
     bool isPopOrder(vector<int> pPush, vector<int> pPop);
     bool verifyBST(int squence[], int length);
+    int calculate(string s);
 };
 #endif // SOLUTION_H_INCLUDED
 
